@@ -1,2 +1,21 @@
-# hotel-room-booking-check-out
-This module handles the check-out process in the Hotel Room Booking System. When a guest checks out, the system updates the room status and marks the room as available. File handling is used to permanently store and update room details. A temporary file is used to safely modify the room records.
+# Hotel Room Booking System – Check-Out Module
+
+This repository contains the Check-Out module of a Hotel Room Booking System.
+The module is developed using C programming and file handling.
+
+## Module Description
+The Check-Out module handles the departure of guests from the hotel.
+It updates room availability when a guest checks out.
+
+## Features
+- Perform guest check-out using room number
+- Update room status to available
+- Uses file handling and temporary file logic
+
+## Technology Used
+- C Programming
+- File Handling
+
+## Author
+<Sabharivasan l.s>
+
