@@ -1,0 +1,5 @@
+Sample Input:
+Enter Room Number to Check-Out: 102
+
+Sample Output:
+Check-out successful for Room 102
